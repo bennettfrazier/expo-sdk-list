@@ -14,7 +14,7 @@ Install the dependencies...
 ```bash
 git clone git@github.com:designnn-co/expo-sdk-list.git
 cd expo-sdk-list
-yarn # or npm i
+yarn
 ```
 
 ...then start build:
@@ -23,4 +23,4 @@ yarn # or npm i
 yarn dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
+Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
